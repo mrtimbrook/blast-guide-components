@@ -4,7 +4,7 @@ return [
     'base' => [
         'status' => 'wip',
         'args' => [
-            'label' => 'Primary',
+            'label' => 'Button',
             'href' => '#',
             'icon' => 'menu-24',
             'iconPosition' => 'after',
